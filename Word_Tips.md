@@ -27,7 +27,3 @@ Word's styles allow you to define the appearance of a block of text. Once define
 | Remove highlighting | `ALT + H, I, N`|
 | Add a comment | `ALT + R, C`|
 
-## Resources
-
-* [Bishop Fox Style Guide](https://www.bishopfox.com/blog/2018/02/hello-world-introducing-the-bishop-fox-cybersecurity-style-guide/)
-* [Microsoft Writing Style Guide](https://docs.microsoft.com/en-us/style-guide/welcome/)
