@@ -7,3 +7,8 @@ These tips have been gleaned from years of report writing and fellow travellers 
 ## Sections
 
 * [Word Tips](Word_Tips.md) - Tame the strange beast that is Word.
+
+## Resources
+
+* [Bishop Fox Style Guide](https://www.bishopfox.com/blog/2018/02/hello-world-introducing-the-bishop-fox-cybersecurity-style-guide/)
+* [Microsoft Writing Style Guide](https://docs.microsoft.com/en-us/style-guide/welcome/)
