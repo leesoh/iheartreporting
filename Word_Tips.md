@@ -11,13 +11,13 @@ Word's styles allow you to define the appearance of a block of text. Once define
 ## Layout
 
 * Use **Paragraph > Line and Page Breaks > Keep with next** to bind a block of text to the following paragraph. Great for introductory bits.
-* Rather than inserting manual newlines to move text to a new page, hit `CTRL + ENTER` to insert a page break. *@prime*
+* Rather than inserting manual newlines to move text to a new page, hit `CTRL + ENTER` to insert a page break. *@0xprime*
 * If you'd like to add a bit of breathing room before or after a line, click **Paragraph > Line and Paragraph Spacing > Add a Space Before/After Paragraph**.
 * Using the Navigation Pane (**View > Navigation Pane**) you can move, promote/demote, and delete sections.
 
 ## Tables
 
-* If your table splits across pages, right-click it and then choose **Properties > Row > Repeat as header row at the top of each page**. *@prime*
+* If your table splits across pages, right-click it and then choose **Properties > Row > Repeat as header row at the top of each page**. *@0xprime*
 
 ## Keyboard Shortcuts
 
