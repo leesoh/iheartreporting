@@ -21,9 +21,9 @@ Word's styles allow you to define the appearance of a block of text. Once define
 
 ## Keyboard Shortcuts
 
-| Action | Shortcut |
-|---|---|
-| Highlight text | `ALT + H, I, <ENTER>`|
-| Remove highlighting | `ALT + H, I, N`|
-| Add a comment | `ALT + R, C`|
-
+| Action              | Shortcut              | Notes                    |
+| ------------------- | --------------------- | ------------------------ |
+| Highlight text      | `ALT + H, I, <ENTER>` |                          |
+| Remove highlighting | `ALT + H, I, N`       |                          |
+| Add a comment       | `ALT + R, C`          |                          |
+| Toggle case         | `Shift + F3`          | eat, Eat, EAT *@0xprime* |
