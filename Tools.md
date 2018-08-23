@@ -17,8 +17,10 @@ Reporting tools tend to incorporate some or all of the data management features,
 
 * [Dradis Framework](https://dradisframework.com/)
 * [Faraday](https://www.faradaysec.com/)
+* [PlexTrac](https://plextrac.com)
 * [Serpico](https://github.com/SerpicoProject/Serpico)
 
 ## Libraries
 
-* [python-docx-template](https://github.com/elapouya/python-docx-template)
+* [NessusExtractPublicExploits](https://github.com/0xprime/NessusExtractPublicExploits) - Extracts all exploits with a known public exploit to a new file, which can then be imported back to Nessus for report generation.
+* [python-docx-template](https://github.com/elapouya/python-docx-template) - Programmatic creation of Word documents using Jinja2.
