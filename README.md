@@ -9,6 +9,7 @@ These tips have been gleaned from years of report writing and fellow travellers 
 * [Data](Data.md) - A collection of resources to flesh out your findings.
 * [Tools](Tools.md) - Data management and reporting tools & libraries.
 * [Word Tips](Word_Tips.md) - Tame the strange beast that is Word.
+* [Tool Tips](Tool_Tips.md) - Tips pertaining to common tools. 
 
 ## Resources
 
