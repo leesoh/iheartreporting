@@ -14,5 +14,6 @@ These tips have been gleaned from years of report writing and fellow travellers 
 ## Resources
 
 * [Bishop Fox Style Guide](https://www.bishopfox.com/blog/2018/02/hello-world-introducing-the-bishop-fox-cybersecurity-style-guide/)
+* [Google Developer Documentation Style Guide](https://developers.google.com/style/)
 * [Microsoft Writing Style Guide](https://docs.microsoft.com/en-us/style-guide/welcome/)
 * [Juliocesarfort's Collection of Public Reports](https://github.com/juliocesarfort/public-pentesting-reports)
