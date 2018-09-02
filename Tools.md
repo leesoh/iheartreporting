@@ -23,4 +23,5 @@ Reporting tools tend to incorporate some or all of the data management features,
 ## Libraries
 
 * [NessusReportMerger](https://github.com/0xprime/NessusReportMerger) - Merges multiple .nessus files into one file, which can then be imported back to Nessus for report generation.
+* [nmap-bootstrap-xsl](https://github.com/honze-net/nmap-bootstrap-xsl/) - Stylesheet for Nmap reports ([Sample](http://htmlpreview.github.io/?https://github.com/honze-net/nmap-bootstrap-xsl/blob/master/scanme.html)).
 * [python-docx-template](https://github.com/elapouya/python-docx-template) - Programmatic creation of Word documents using Jinja2.
