@@ -10,6 +10,7 @@ These tools focus on herding the mountains of data gathered during an engagement
 * [KeepNote](http://keepnote.org/)
 * [Lair Framework](https://github.com/lair-framework)
 * [TiddlyWiki](https://tiddlywiki.com/)
+* [Typora](https://typora.io/)
 
 ## Reporting
 
