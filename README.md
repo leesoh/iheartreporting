@@ -7,14 +7,12 @@ These tips have been gleaned from years of report writing and fellow travellers 
 ## Sections
 
 * [Data](Data.md) - A collection of resources to flesh out your findings.
+* [Style and Grammar](Style_and_Grammar.md) - Pandora's box hath been opened.
+* [Tool Tips](Tool_Tips.md) - Tips pertaining to common tools. 
 * [Tools](Tools.md) - Data management and reporting tools & libraries.
 * [Word Tips](Word_Tips.md) - Tame the strange beast that is Word.
-* [Tool Tips](Tool_Tips.md) - Tips pertaining to common tools. 
 
-## Resources
+## General Resources
 
-* [Bishop Fox Style Guide v1.1](https://www.bishopfox.com/download/8124/)
-* [Google Developer Documentation Style Guide](https://developers.google.com/style/)
 * [Hack for Show, Report for Dough](https://www.youtube.com/watch?v=c_LBWqNDY0M) - The video bible of #reporting.
-* [Microsoft Writing Style Guide](https://docs.microsoft.com/en-us/style-guide/welcome/)
 * [Juliocesarfort's Collection of Public Reports](https://github.com/juliocesarfort/public-pentesting-reports)
