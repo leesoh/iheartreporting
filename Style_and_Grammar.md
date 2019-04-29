@@ -12,3 +12,9 @@ Examples:
 * "By cracking password hashes, 5,000 users had the password 'Summer2019'"
 
 Courtesy of @gombos
+
+## Resources
+
+* [Bishop Fox Style Guide v1.1](https://www.bishopfox.com/download/8124/)
+* [Google Developer Documentation Style Guide](https://developers.google.com/style/)
+* [Microsoft Writing Style Guide](https://docs.microsoft.com/en-us/style-guide/welcome/)
