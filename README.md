@@ -15,4 +15,5 @@ These tips have been gleaned from years of report writing and fellow travellers 
 ## General Resources
 
 * [Hack for Show, Report for Dough](https://www.youtube.com/watch?v=c_LBWqNDY0M) - The video bible of #reporting.
+* [How to Write Like It's Your Job](https://youtu.be/JhEUw90C_lA) - An excellent presentation on technical writing by the person who brought you the CyberSecurity Style Guide.
 * [Juliocesarfort's Collection of Public Reports](https://github.com/juliocesarfort/public-pentesting-reports)
