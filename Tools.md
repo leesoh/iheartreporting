@@ -18,6 +18,7 @@ Reporting tools tend to incorporate some or all of the data management features,
 
 * [Dradis Framework](https://dradisframework.com/)
 * [Faraday](https://www.faradaysec.com/)
+* [Pentest.ws](https://pentest.ws/)
 * [PlexTrac](https://plextrac.com)
 * [Serpico](https://github.com/SerpicoProject/Serpico)
 
