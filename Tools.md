@@ -20,6 +20,7 @@ Reporting tools tend to incorporate some or all of the data management features,
 * [Faraday](https://www.faradaysec.com/)
 * [Pentest.ws](https://pentest.ws/)
 * [PlexTrac](https://plextrac.com)
+* [PwnDoc](https://github.com/pwndoc/pwndoc)
 * [Serpico](https://github.com/SerpicoProject/Serpico)
 
 ## Libraries
